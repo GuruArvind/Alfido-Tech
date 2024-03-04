@@ -51,29 +51,29 @@ Guru Arvind KP
 kpguruarvind@gmail.com
 
 Feel free to reach out with any questions, feedback, or concerns. Happy coding!
-TO-DO List
+# TO-DO List
 The TO-DO List script allows users to keep track of tasks, add new tasks, mark tasks as completed, and view the current tasks.
 
-Usage:
+## Usage:
 To use the TO-DO List, run the script todo_list.py:
 
-bash
+'''bash
 Copy code
 python todo_list.py
 Follow the prompts to perform various operations such as adding tasks, marking tasks as completed, and viewing the current tasks.
 
-Requirements:
+## Requirements:
 Python 3.x
-License:
+## License:
 This TO-DO List program is also licensed under the MIT License. See the LICENSE file for details.
 
-Contributions:
+## Contributions:
 Contributions are welcome! If you have any improvements or feature suggestions for the TO-DO List program, feel free to open an issue or submit a pull request.
 
-Author:
+## Author:
 Guru Arvind KP
 
-Contact:
+## Contact:
 kpguruarvind@gmail.com
 
 Feel free to reach out with any questions, feedback, or concerns. Happy coding!
